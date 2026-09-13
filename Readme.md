@@ -6,7 +6,7 @@ I build production-ready backend systems and REST APIs using **C#, ASP.NET Core,
 
 Experienced with **Clean Architecture, authentication & authorization, payments, real-time systems, third-party integrations, and cloud deployment**.
 
-I've worked on backend systems across **ride-sharing, payments & digital wallets, property reservations, crime reporting, and cooperative & loan management platforms and dental laboratory management**.
+I've worked on backend systems across **ride-sharing, payments & digital wallets, property reservations, crime reporting, cooperative & loan management platforms and dental laboratory management**.
 
 I also work with **SQL, Power BI, and Excel** for data analysis and visualization.
 
